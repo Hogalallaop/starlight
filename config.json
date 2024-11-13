@@ -22,8 +22,8 @@
     },
      "lavalink": {
         "lavalink": {
-            "host": "ll.sleepyinsomniac.eu.org",
-            "port": 80,
+            "host": "lavalink.jirayu.net",
+            "port": 13592,
             "password": "youshallnotpass",
             "secure": false
         }
