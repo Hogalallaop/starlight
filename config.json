@@ -22,9 +22,9 @@
     },
      "lavalink": {
         "lavalink": {
-            "host": "lava.catfein.com",
-            "port": 4000,
-            "password": "catfein",
+            "host": "ll.sleepyinsomniac.eu.org",
+            "port": 80,
+            "password": "youshallnotpass",
             "secure": false
         }
     }, 
